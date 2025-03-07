@@ -32,7 +32,6 @@ int main()
         {
             max_number = array[i];
         }
-        //display an array
     }
     cout << endl << "Min number: " << min_number << endl;
     cout << "Max number: " << max_number << endl;
